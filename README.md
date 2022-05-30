@@ -2,6 +2,9 @@
 
 custom clash rules configuration preprocessing
 
+Add a PROXY policy!!
+> Manually configure a `PROXY` policy in `proxies` or `proxy-groups`
+
 base [clash_rules](https://github.com/Loyalsoldier/clash-rules) repo, open `Settings -> Profiles -> Parsers -> Edit`:
 
 ```yaml
